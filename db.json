@@ -5,12 +5,10 @@
     { "id": 3, "title": "Prj 3" }
   ],
   "Todos": [
-    { "id": 1, "body": "fstTask", "prjId": 1 },
-    { "id": 2, "body": "scdTask", "prjId": 1 },
-    { "id": 3, "body": "trdTask", "prjId": 1 },
-    { "id": 4, "body": "fstTask", "prjId": 2 },
-    { "id": 5, "body": "scdTask", "prjId": 2 },
-    { "id": 6, "body": "fstTask", "prjId": 3 }
+    { "id": 1, "nom": "fstTask", "type": 1 ,"x": 1,"y": 1},
+    { "id": 1, "nom": "fstTask", "type": 1 ,"x": 1,"y": 1},
+    { "id": 1, "nom": "fstTask", "type": 1 ,"x": 1,"y": 1},
+    { "id": 1, "nom": "fstTask", "type": 1 ,"x": 1,"y": 1}
   ]
 
 }
