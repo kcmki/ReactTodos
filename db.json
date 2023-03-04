@@ -1,14 +1,14 @@
 {
   "Projects": [
-    { "id": 1, "title": "Prj 1" },
-    { "id": 2, "title": "Prj 2" },
-    { "id": 3, "title": "Prj 3" }
+    { "id": 1, "title": "Ahmed","Nb": 4,"Profit":120000,},
+    { "id": 2, "title": "Ilyes","Nb": 12,"Profit":450000,},
+    { "id": 3, "title": "Karim","Nb":6, "Profit":90000,}
   ],
   "Todos": [
-    { "id": "", "nom": "OuedSouf", "terrain": "sableuse" ,"x": 145,"y": 13},
-    { "id": "", "nom": "Tipaza", "terrain": "humifère" ,"x": 126,"y": 14},
-    { "id": "", "nom": "Chlef", "terrain": "calcaire" ,"x": 145.2,"y": 13.6},
-    { "id": "", "nom": "Blida", "terrain": "tourbeuse" ,"x": 147,"y": 12.9}
+    { "id": 1, "nom": "OuedSouf", "terrain": "sableuse" ,"x": 145,"y": 13},
+    { "id": 2, "nom": "Tipaza", "terrain": "humifère" ,"x": 126,"y": 14},
+    { "id": 3, "nom": "Chlef", "terrain": "calcaire" ,"x": 145.2,"y": 13.6},
+    { "id": 4, "nom": "Blida", "terrain": "tourbeuse" ,"x": 147,"y": 12.9}
   ]
 
 }
