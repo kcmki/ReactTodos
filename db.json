@@ -5,10 +5,10 @@
     { "id": 3, "title": "Prj 3" }
   ],
   "Todos": [
-    { "id": 1, "nom": "fstTask", "type": 1 ,"x": 1,"y": 1},
-    { "id": 1, "nom": "fstTask", "type": 1 ,"x": 1,"y": 1},
-    { "id": 1, "nom": "fstTask", "type": 1 ,"x": 1,"y": 1},
-    { "id": 1, "nom": "fstTask", "type": 1 ,"x": 1,"y": 1}
+    { "id": 1, "nom": "fstTask", "terrain": 1 ,"x": 1,"y": 1},
+    { "id": 2, "nom": "fstTask", "terrain": 1 ,"x": 1,"y": 1},
+    { "id": 3, "nom": "fstTask", "terrain": 1 ,"x": 1,"y": 1},
+    { "id": 4, "nom": "fstTask", "terrain": 1 ,"x": 1,"y": 1}
   ]
 
 }
