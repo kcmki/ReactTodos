@@ -1,8 +1,8 @@
 {
   "Projects": [
-    { "id": 1, "title": "Ahmed","Nb": 4,"Profit":120000,},
-    { "id": 2, "title": "Ilyes","Nb": 12,"Profit":450000,},
-    { "id": 3, "title": "Karim","Nb":6, "Profit":90000,}
+    { "id": 1, "title": "Ahmed","Nb": 4,"Profit":120000},
+    { "id": 2, "title": "Ilyes","Nb": 12,"Profit":450000},
+    { "id": 3, "title": "Karim","Nb":6, "Profit":90000}
   ],
   "Todos": [
     { "id": 1, "nom": "OuedSouf", "terrain": "sableuse" ,"x": 145,"y": 13},
